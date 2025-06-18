@@ -5,7 +5,9 @@ Esse projeto tem como objetivo mostrar o que é a conexão entre campo e cidade 
 🛠️ Desenvolvimento
 -
 ✏️**Protótipo de Baixa Fidelidade:** Esse protótipo mostra um esboço simples do projeto e suas funcionalidades. Desenvolvido em um caderno de desenho durante aulas da professora de programação.
+
 🖥️**Protótipo de Alta Fidelidade:** É um protótipo mais detalhado e mais próximo do projeto final. Criado no site Canva.
+
 ⚙️**Linguagens Útilizada:** 
 - 🌐**HTML**
 - **CSS**
@@ -19,3 +21,19 @@ Esse projeto tem como objetivo mostrar o que é a conexão entre campo e cidade 
 - Pontuação com base nos tempo de resposta
 - Feedback visual para respostas certa e erradas.
 
+📦Recursos
+-
+- p5.js – https://p5js.org
+- OpenAI Chatgpt
+
+👤Autor
+-
+Desenvolvido por:
+- Uesles Pereira
+
+🙌Agradecimentos
+-
+- Professora Regiane
+- Alura Start
+- Videos de apoio
+- OpenAi ChatGPT

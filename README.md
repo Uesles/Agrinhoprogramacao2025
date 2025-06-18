@@ -36,4 +36,4 @@ Desenvolvido por:
 - Professora Regiane
 - Alura Start
 - Videos de apoio
-- OpenAi ChatGPT
+- OpenAI ChatGPT

@@ -254,7 +254,7 @@ const questions = [
   }
 ];
 
-// Funções para embaralhar, iniciar quiz, mostrar perguntas, timer etc (igual no exemplo anterior)...
+// Funções de embaralhar, iniciar quiz, mostrar perguntas, timer e outros
 
 function shuffleArray(array) {
   for(let i = array.length - 1; i > 0; i--) {
